@@ -34,6 +34,8 @@ Runs in the browser, nothing to install · USB and Bluetooth · free · <b>unoff
 
 Requires Web MIDI (SysEx) / Web Bluetooth — not Safari or iPhone/iPad. Tested with firmware **1.3.3**.
 
+Youtube https://www.youtube.com/watch?v=sc-fBliGY4E
+
 ## Privacy
 
 Everything runs in your browser. Presets, settings and AI keys stay on your computer. Nothing is sent to the author; tone requests only go to the AI service you choose.
