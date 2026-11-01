@@ -48,6 +48,8 @@ Testado com o firmware **1.3.3**.
 
 **Instalar como aplicação:** no Chrome, ícone de instalar na barra de endereço; no Android, menu ⋮ → *Instalar aplicação*.
 
+**Youtube** https://www.youtube.com/watch?v=sc-fBliGY4E
+
 ## Privacidade
 
 A app corre toda no teu browser. Os presets, as definições e as chaves da IA ficam guardados só no teu computador (localStorage). Nada é enviado para o autor. O pedido de timbre vai apenas para o serviço de IA que escolheres, com a tua chave.
